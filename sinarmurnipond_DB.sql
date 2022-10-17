@@ -92,8 +92,7 @@ CREATE TABLE `user` (
 -- Dumping data untuk tabel `user`
 --
 
-INSERT INTO `user` (`id`, `email`, `username`, `password`) VALUES
-(1, 'admin@sinarmurnipond.com', 'Admin', '12345678');
+
 
 --
 -- Indexes for dumped tables
